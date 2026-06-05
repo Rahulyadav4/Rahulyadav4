@@ -8,7 +8,7 @@
 
 Software Engineer with 2+ years of experience in backend development and data engineering. Currently at Tech Mahindra working with enterprise clients Ford and Nissan on production-grade ETL pipelines and distributed backend systems.
 
-Experienced in building scalable microservices, cloud-native applications, and high-throughput data pipelines. Open to SDE-2 and Data Engineer roles.
+Like building scalable microservices, cloud-native applications, and high-throughput data pipelines.
 
 ---
 

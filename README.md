@@ -14,7 +14,6 @@ DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, Prometheus, Grafana
 Databases: Oracle, MySQL, MongoDB, Redis
 
 Projects
-
 Internal Project: Spring Boot Microservice Backend (Jan 2025 – Mar 2025)
 Built cloud-native microservices supporting 3,000 to 5,000 req/s with Redis cache-aside pattern reducing DB load by 70 to 80%
 Deployed on Kubernetes with Docker, CI/CD via GitHub Actions, full observability via Prometheus and Grafana

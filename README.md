@@ -1,52 +1,31 @@
-👋 Hi, I'm Rahul Yadav
+Rahul Yadav
+Software Engineer| Java | Spring Boot | Microservices | AWS | ETL | PySpark
 
-🚀 Software Engineer with 2+ years of experience building and supporting production-grade ETL pipelines on AWS.
+About
+Software Engineer with 2+ years of experience in backend development and data engineering. Currently at Tech Mahindra working with enterprise clients Ford and Nissan on production-grade ETL pipelines and distributed backend systems. Experienced in building scalable microservices, cloud-native applications, and high-throughput data pipelines.
+Open to SDE-2 and Data Engineer roles with a focus on backend-heavy or hybrid backend + data engineering positions.
 
-💻 Tech Stack
+Skills
+Languages: Java, Python, SQL
+Backend: Spring Boot, REST APIs, Microservices, Hibernate/JPA, JWT Authentication, Maven
+Data Engineering: PySpark, ETL Pipelines, Batch Processing, Workflow Orchestration, Incremental Loads, UPSERT Logic, Deduplication
+Cloud: AWS (Glue, S3, Lambda, Redshift, EventBridge, EC2), Serverless Architecture
+DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, Prometheus, Grafana
+Databases: Oracle, MySQL, MongoDB, Redis
 
-- AWS Glue
-- PySpark
-- SQL
-- Amazon S3
-- Amazon Redshift
-- EventBridge
-- AWS Lambda
-- Informatica PowerCenter
+Projects
 
-🔧 What I Work On
+Internal Project: Spring Boot Microservice Backend (Jan 2025 – Mar 2025)
+Built cloud-native microservices supporting 3,000 to 5,000 req/s with Redis cache-aside pattern reducing DB load by 70 to 80%
+Deployed on Kubernetes with Docker, CI/CD via GitHub Actions, full observability via Prometheus and Grafana
+GitHub: https://github.com/Rahulyadav4/backend-app-prod
 
-- Production ETL Pipelines
-- Batch Data Processing
-- Data Validation & Quality Checks
-- SLA Monitoring & Incident Resolution
-- Cloud Data Engineering on AWS
+Event-Driven AWS Data Ingestion Pipeline (Jan 2025 – Jun 2025)
+Designed serverless ETL pipeline using AWS Glue, S3, Lambda, EventBridge, and Redshift
+Implemented incremental processing, UPSERT-based ingestion, deduplication, and schema validation
+GitHub: https://github.com/Rahulyadav4/AWS-ETL
 
-📈 Experience Highlights
-
-- Processed and supported 1M+ records through production ETL workflows
-- Maintained SLA-driven data pipelines for enterprise clients
-- Built AWS-based ingestion and transformation solutions
-- Performed production triage, RCA analysis, and data validation
-
-📌 Projects
-
-AWS Event-Driven Data Pipeline
-
-S3 → EventBridge → Lambda → AWS Glue → Redshift
-
-Production ETL Framework
-
-PySpark-based ETL processing with logging, validation, and error handling.
-
-Spring Boot Backend Services
-
-REST APIs using Java, Spring Boot, and SQL databases.
-
-🌱 Currently Learning
-
-- Advanced PySpark Optimizations
-- Data Modeling
-- System Design for Data Platforms
-- Scalable Cloud Architectures
-
-📫 Connect with me on LinkedIn and feel free to explore my repositories.
+AWS Certified Cloud Practitioner, 2025
+HackerRank Advanced SQL Certification, 2025
+HackerRank Software Engineer Certification, 2025
+150+ DSA problems solved on LeetCode, CodeChef, HackerEarth | CodeChef rating 1300+

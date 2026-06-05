@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Hi, I'm Rahul Yadav
 
-<!--
-**Rahulyadav4/Rahulyadav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer with 2+ years of experience building and supporting production-grade ETL pipelines on AWS.
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS Glue
+- PySpark
+- SQL
+- Amazon S3
+- Amazon Redshift
+- EventBridge
+- AWS Lambda
+- Informatica PowerCenter
+
+🔧 What I Work On
+
+- Production ETL Pipelines
+- Batch Data Processing
+- Data Validation & Quality Checks
+- SLA Monitoring & Incident Resolution
+- Cloud Data Engineering on AWS
+
+📈 Experience Highlights
+
+- Processed and supported 1M+ records through production ETL workflows
+- Maintained SLA-driven data pipelines for enterprise clients
+- Built AWS-based ingestion and transformation solutions
+- Performed production triage, RCA analysis, and data validation
+
+📌 Projects
+
+AWS Event-Driven Data Pipeline
+
+S3 → EventBridge → Lambda → AWS Glue → Redshift
+
+Production ETL Framework
+
+PySpark-based ETL processing with logging, validation, and error handling.
+
+Spring Boot Backend Services
+
+REST APIs using Java, Spring Boot, and SQL databases.
+
+🌱 Currently Learning
+
+- Advanced PySpark Optimizations
+- Data Modeling
+- System Design for Data Platforms
+- Scalable Cloud Architectures
+
+📫 Connect with me on LinkedIn and feel free to explore my repositories.

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rahul Yadav
+#  Hi, I'm Rahul Yadav
 
 ### Software Engineer | Backend Development | Data Engineering | Cloud & DevOps
 

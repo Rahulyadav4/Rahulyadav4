@@ -5,7 +5,6 @@
 ### Software Engineer | Backend Development | Data Engineering | Cloud & DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-yadav-a42316219)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulyadav4)
 
 </div>

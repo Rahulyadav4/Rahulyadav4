@@ -11,21 +11,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Software Engineer with **2+ years of experience** in backend development and data engineering, currently at **Tech Mahindra** working with enterprise clients **Ford** and **Nissan** on production-grade ETL pipelines and distributed backend systems.
 
 I enjoy building systems that are scalable, reliable, and efficient — whether that's a high-throughput data pipeline processing millions of records, a cloud-native microservice handling thousands of requests per second, or a well-architected Kubernetes deployment with full observability.
 
-- 🔭 Currently working on production ETL pipelines and distributed backend systems at Tech Mahindra
-- 🌱 Focused on cloud-native architecture, data engineering at scale, and system design
-- 🧠 Solved **200+ DSA problems** across LeetCode, CodeChef, and HackerEarth
-- 🏆 CodeChef rating **1300+**
-- ☁️ AWS Certified Cloud Practitioner (2025)
+- Currently working on production ETL pipelines and distributed backend systems at Tech Mahindra
+- Focused on cloud-native architecture, data engineering at scale, and system design
+- Solved **200+ DSA problems** across LeetCode, CodeChef, and HackerEarth
+- CodeChef rating **1300+**
+- AWS Certified Cloud Practitioner (2025)
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -107,15 +107,15 @@ A production-style cloud-native backend system built with Spring Boot microservi
 ---
 User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cache Layer) └── MongoDB (Persistence Layer) └── Micrometer → Prometheus → Grafana
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 | Badge | Certification | Year |
 |---|---|---|
-| ☁️ | AWS Certified Cloud Practitioner | 2025 |
-| 🟢 | HackerRank Advanced SQL Certification | 2025 |
-| 🟢 | HackerRank Software Engineer Certification | 2025 |
-| 🧠 | 200+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
-| ⭐ | CodeChef Rating 1300+ | Ongoing |
+| | AWS Certified Cloud Practitioner | 2025 |
+| | HackerRank Advanced SQL Certification | 2025 |
+| | HackerRank Software Engineer Certification | 2025 |
+| | 200+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
+| | CodeChef Rating 1300+ | Ongoing |
 
 ---
 

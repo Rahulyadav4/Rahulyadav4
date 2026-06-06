@@ -50,7 +50,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 
 ### DevOps & Observability
 - **Containerization:** Docker
-- **Orchestration:** Kubernetes
+- **Orchestration:** Kubernetes (local cluster)
 - **CI/CD:** GitHub Actions
 - **Monitoring:** Prometheus, Grafana
 
@@ -94,7 +94,7 @@ A production-style cloud-native backend system built with Spring Boot microservi
 **Key Highlights:**
 - Built cloud-native microservices capable of handling **3,000–5,000 req/s** under sustained load
 - Implemented **Redis cache-aside pattern** reducing direct database load by **70–80%**
-- Deployed on **Kubernetes** with Docker, using pods, services, and ingress routing
+- Deployed on **Kubernetes (local cluster)** with Docker, using pods, services, and ingress routing
 - Configured **Horizontal Pod Autoscaler (HPA)** for automatic load-based scaling
 - Set up **readiness and liveness probes** for robust health management
 - Full observability stack: **Prometheus** for metrics scraping + **Grafana** for real-time dashboards

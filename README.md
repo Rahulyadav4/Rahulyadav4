@@ -67,7 +67,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 ### 1. Event-Driven AWS Data Ingestion Pipeline
 > `AWS` `PySpark` `Python` `Serverless` `ETL` `Scalable`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/AWS-ETL)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/AWS-ETL) ###(private)
 
 A fully serverless, event-driven ETL pipeline built on AWS that ingests raw CSV data, validates and transforms it using PySpark on AWS Glue, and loads clean data into Amazon Redshift — all orchestrated without a single persistent server.
 
@@ -87,7 +87,7 @@ A fully serverless, event-driven ETL pipeline built on AWS that ingests raw CSV 
 ### 2. Scalable Spring Boot Microservice | Kubernetes + Monitoring
 > `Java` `Spring Boot` `Kubernetes` `Docker` `Redis` `MongoDB` `Prometheus` `Grafana`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/backend-app-prod)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/backend-app-prod) ###(private)
 
 A production-style cloud-native backend system built with Spring Boot microservices, deployed on Kubernetes with full observability, autoscaling, and a Redis cache-aside pattern for high-performance reads.
 

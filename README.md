@@ -67,7 +67,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 ### 1. Event-Driven AWS Data Ingestion Pipeline
 > `AWS` `PySpark` `Python` `Serverless` `ETL` `Scalable`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/AWS-ETL) ###(private)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/AWS-ETL) (private repo - Request for access - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-yadav-a42316219))
 
 A fully serverless, event-driven ETL pipeline built on AWS that ingests raw CSV data, validates and transforms it using PySpark on AWS Glue, and loads clean data into Amazon Redshift — all orchestrated without a single persistent server.
 

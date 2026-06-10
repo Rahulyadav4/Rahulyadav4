@@ -109,6 +109,27 @@ A production-style cloud-native backend system built with Spring Boot microservi
 ---
 User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cache Layer) └── MongoDB (Persistence Layer) └── Micrometer → Prometheus → Grafana
 
+
+### 3. Policy Consensus Engine (RAG Agentic System)
+> `Python` `RAG` `LLM` `Gemini` `FAISS` `PySpark` `Gradio` `Agentic AI`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahulyadav4/RAG_AGENTIC) 🔒 Private Repo — [Request Access via LinkedIn] - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-yadav-a42316219)
+
+A fully agentic Retrieval-Augmented Generation (RAG) system that ingests multiple policy PDF documents, builds a semantic vector store, and uses Gemini LLM to surface cross-policy agreements, conflicts, and actionable consensus recommendations.
+
+**Key Highlights:**
+- Built an **end-to-end RAG pipeline** using FAISS vector store and `sentence-transformers` for semantic retrieval across multiple policy documents
+- Integrated **Google Gemini 2.5 Flash** for LLM-powered policy summarization, Q&A, and consensus generation
+- Implemented **multi-modal ingestion** — extracts both text and embedded images from PDFs, with Gemini analyzing visual content (workflows, hierarchies, tables)
+- Designed a **weighted policy consensus engine** — each policy is assigned an importance weight (1–10) that influences conflict resolution and recommendation priority
+- Generated structured policy summaries covering Executive Summary, Priorities, Mandatory Actions, Risks, Agreements, Conflicts, and a one-line consensus
+- Built **persistent vector storage** using FAISS index + JSON metadata, enabling incremental policy additions across sessions
+- Implemented **semantic chunking and retrieval** with top-K similarity search to provide grounded, context-aware answers
+- Developed an interactive **Gradio UI** with tabs for policy ingestion, Q&A, and policy management
+
+**System Architecture:**
+PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Vision) + Text Chunking ↓ Embeddings (sentence-transformers) → FAISS Vector Store ↓ Query → Semantic Retrieval → Gemini LLM → Consensus Answer
+
 ## Certifications & Achievements
 
 | Badge | Certification | Year |

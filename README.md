@@ -79,7 +79,7 @@ A fully serverless, event-driven ETL pipeline built on AWS that ingests raw CSV 
 - Enforced **schema validation, null checks, format checks, and deduplication** at the Glue layer
 - Separated records into **curated (valid)** and **rejected (invalid)** datasets for downstream auditability
 - Optimized Redshift ingestion using **COPY operations** and **partition-based processing** for high throughput
-- Final validation with **row count checks** across source, staging, and target to ensure load integrity
+- Final validation with **row count checks** across source, staging, and target to ensure load integrity.
 
 **Pipeline Flow:**
 

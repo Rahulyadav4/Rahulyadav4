@@ -139,8 +139,21 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | HackerRank Software Engineer Certification | 2025 |
 | | 200+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
 | | CodeChef Rating 1300+ | Ongoing |
+---
+
+## 🌐 Contributions
+
+### Apache ShardingSphere — [apache/shardingsphere#31487](https://github.com/apache/shardingsphere/issues/31487)
+> `Java` `ANTLR` `Grammar Parsing` `JUnit` `Open Source Debugging`
+
+Investigated a reported parsing issue around the `UCASE(name)` function — tracing the flow from grammar definition (`BaseRule4.g4`) through to the Visitor layer (`VisitorFunctionCall`) to confirm correctness.
+
+📄 Full investigation log: [ShardingSphere Open Source Investigation Log](#) *(replace `#` with the link to your hosted README/gist)*
+
+**Summary:** Confirmed `UCASE(name)` is parsed correctly at both the grammar and visitor level — parse tree generated as expected, no defect identified.
 
 ---
+
 
 ## 📊 GitHub Stats
 

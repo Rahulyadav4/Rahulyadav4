@@ -143,7 +143,7 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 
 ## 🌐 Contributions
 
-### Apache ShardingSphere — [apache/shardingsphere#31487](https://github.com/apache/shardingsphere/issues/31487)
+### Apache ShardingSphere
 > `Java` `ANTLR` `Grammar Parsing` `JUnit` `Open Source Debugging`
 
 Investigated a reported parsing issue around the `UCASE(name)` function — tracing the flow from grammar definition (`BaseRule4.g4`) through to the Visitor layer (`VisitorFunctionCall`) to confirm correctness.

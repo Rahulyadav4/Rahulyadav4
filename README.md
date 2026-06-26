@@ -148,7 +148,7 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 
 Investigated a reported parsing issue around the `UCASE(name)` function — tracing the flow from grammar definition (`BaseRule4.g4`) through to the Visitor layer (`VisitorFunctionCall`) to confirm correctness.
 
-📄 Full investigation log: [ShardingSphere Open Source Investigation Log](#) *(replace `#` with the link to your hosted README/gist)*
+📄 Full investigation log: [ShardingSphere Open Source Investigation Log] *(replace `#` with the link to your hosted README/gist)*
 
 **Summary:** Confirmed `UCASE(name)` is parsed correctly at both the grammar and visitor level — parse tree generated as expected, no defect identified.
 

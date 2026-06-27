@@ -130,7 +130,7 @@ A fully agentic Retrieval-Augmented Generation (RAG) system that ingests multipl
 **System Architecture:**
 PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Vision) + Text Chunking ↓ Embeddings (sentence-transformers) → FAISS Vector Store ↓ Query → Semantic Retrieval → Gemini LLM → Consensus Answer
 
-## Certifications & Achievements
+## Certifications, Achievements & Contributions
 
 | Badge | Certification | Year |
 |---|---|---|
@@ -141,7 +141,6 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | CodeChef Rating 1300+ | Ongoing |
 ---
 
-## 🌐 Contributions
 
 ### Apache ShardingSphere
 > `Java` `ANTLR` `Grammar Parsing` `JUnit` `Open Source Debugging`

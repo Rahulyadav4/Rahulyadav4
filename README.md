@@ -153,19 +153,12 @@ Investigated a reported parsing issue around the `UCASE(name)` function — trac
 
 ---
 
+<h3>📊 GitHub Stats</h3>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulyadav4&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulyadav4&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaigorJiang&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaigorJiang&layout=compact&theme=radical" height="180" />
+</p>
 
 *Open to backend engineering and data engineering roles. Feel free to reach out.*
 

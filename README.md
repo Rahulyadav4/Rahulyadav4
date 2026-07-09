@@ -151,6 +151,10 @@ Investigated a reported parsing issue around the `UCASE(name)` function — trac
 
 **Summary:** Confirmed `UCASE(name)` is parsed correctly at both the grammar and visitor level — parse tree generated as expected, no defect identified.
 
+
+
+###ongoing PR
+> https://github.com/bucket4j/bucket4j/issues/530
 ---
 
 <h3>📊 GitHub Stats</h3>

@@ -153,7 +153,7 @@ Investigated a reported parsing issue around the `UCASE(name)` function — trac
 
 
 ###ongoing PR
-> https://github.com/bucket4j/bucket4j/issues/530
+> https://github.com/bucket4j/bucket4j/issues/530.   awaiting maintainer response 
 ---
 
 <h3>📊 GitHub Stats</h3>

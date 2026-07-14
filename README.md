@@ -49,7 +49,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 
 ### DevOps & Observability
 - **Containerization:** Docker
-- **Orchestration:** Kubernetes (local cluster)
+- **Orchestration:** Kubernetes
 - **CI/CD:** GitHub Actions
 - **Monitoring:** Prometheus, Grafana
 

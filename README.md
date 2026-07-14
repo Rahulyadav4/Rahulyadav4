@@ -154,8 +154,8 @@ Investigated a reported parsing issue around the `UCASE(name)` function — trac
 
 ###ongoing PR
 > https://github.com/bucket4j/bucket4j/issues/530.   awaiting maintainer response
+
 > https://github.com/resilience4j/resilience4j/issues/1578.      working on it.
----
 
 <h3>📊 GitHub Stats</h3>
 

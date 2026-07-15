@@ -12,7 +12,7 @@
 
 ## About Me
 
-Software Engineer with **2.1+ years of experience** in backend development and data engineering, currently working with enterprise clients **Ford** and **Nissan** on production-grade ETL pipelines and distributed backend systems.
+Software Engineer with **2.2+ years of experience** in backend development and data engineering, currently working with enterprise clients **Ford** and **Nissan** on production-grade ETL pipelines and distributed backend systems.
 
 I enjoy building systems that are scalable, reliable, and efficient — whether that's a high-throughput data pipeline processing millions of records, a cloud-native microservice handling thousands of requests per second, or a well-architected Kubernetes deployment with full observability.
 

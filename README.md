@@ -18,7 +18,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 
 - Currently working on production ETL pipelines and distributed backend systems at Tech Mahindra
 - Focused on cloud-native architecture, data engineering at scale, and system design
-- Solved **220+ DSA problems** across LeetCode, CodeChef, and HackerEarth
+- Solved **250+ DSA problems** across LeetCode, CodeChef, and HackerEarth
 - CodeChef rating **1300+**
 - AWS Certified Cloud Practitioner (2025)
 

@@ -20,7 +20,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 - Focused on cloud-native architecture, data engineering at scale, and system design
 - Solved **250+ DSA problems** across LeetCode, CodeChef, and HackerEarth
 - CodeChef rating **1300+**
-- AWS Certified Cloud Practitioner (2025)
+- AWS Certified Cloud Practitioner (2025).
 
 ---
 

@@ -22,7 +22,7 @@ I enjoy building systems that are scalable, reliable, and efficient — whether 
 - CodeChef rating **1300+**
 - AWS Certified Cloud Practitioner (2025).
 
----
+----
 
 ## Technical Skills
 

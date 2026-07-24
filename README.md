@@ -137,7 +137,7 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | HackerRank Advanced SQL Certification | 2025 |
 | | HackerRank Software Engineer Certification | 2025 |
 | | 250+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
-| | CodeChef Rating 1300+ | Ongoing |
+| | Leetcode Rating 1560+ | Ongoing |
 ---
 
 

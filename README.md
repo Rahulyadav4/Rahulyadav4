@@ -10,7 +10,7 @@
 </div>
 
 
-## About Me
+## About
 
 Software Engineer with **2.2+ years of experience** in backend development and data engineering, currently working with enterprise clients **Ford** and **Nissan** on production-grade ETL pipelines and distributed backend systems.
 

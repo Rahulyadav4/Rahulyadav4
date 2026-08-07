@@ -34,7 +34,7 @@ Highlights
 - LeetCode Rating: 1630
 - AWS Certified Cloud Practitioner (2025)
 
-Interests
+### Interests
 
 I'm passionate about building production-ready software, solving challenging backend problems, and continuously learning about distributed systems, cloud-native architecture, scalability, and performance engineering.
 

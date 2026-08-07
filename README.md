@@ -12,16 +12,33 @@
 
 ## About
 
-Software Engineer with **2.2+ years of experience** in backend development and data engineering, currently working with enterprise clients **Ford** and **Nissan** on production-grade ETL pipelines and distributed backend systems.
 
-I enjoy building systems that are scalable, reliable, and efficient — whether that's a high-throughput data pipeline processing millions of records, a cloud-native microservice handling thousands of requests per second, or a well-architected Kubernetes deployment with full observability.
+Hi, I'm Rahul Yadav 👋
 
-- Currently working on production ETL pipelines and distributed backend systems at Tech Mahindra
-- Focused on cloud-native architecture, data engineering at scale, and system design
-- Solved **250+ DSA problems** across LeetCode, CodeChef, and HackerEarth
-- Leetcode rating **1630**
-- AWS Certified Cloud Practitioner (2025).
+Backend Engineer with 2.2+ years of experience building scalable backend applications, cloud-native services, and production-grade data platforms. I enjoy designing systems that are reliable, resilient, and efficient—from high-throughput data pipelines processing millions of records to distributed microservices handling production workloads.
 
+Currently working with enterprise clients Ford and Nissan, developing and supporting production ETL pipelines, distributed backend systems, and cloud-based data platforms.
+
+What I Work With
+
+- Backend: Java, Spring Boot, REST APIs, Microservices
+- Cloud & Data: AWS (Glue, Lambda, S3, Redshift), PySpark, SQL
+- Architecture: System Design (LLD & HLD), Distributed Systems, Event-Driven Architecture
+- DevOps: Docker, Kubernetes, Git, CI/CD
+
+Highlights
+
+- Built and maintained production data pipelines processing 5M+ records/day.
+- Improved pipeline latency by 60% through workflow and performance optimization.
+- Reduced production incident resolution time by 40% using root cause analysis and reliability engineering practices.
+- Focused on scalable backend architecture, fault tolerance, observability, and production reliability.
+- Solved 250+ DSA problems across LeetCode, CodeChef, and HackerEarth.
+- LeetCode Rating: 1630
+- AWS Certified Cloud Practitioner (2025)
+
+Interests
+
+I'm passionate about building production-ready software, solving challenging backend problems, and continuously learning about distributed systems, cloud-native architecture, scalability, and performance engineering.
 ----
 
 ## Technical Skills

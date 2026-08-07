@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey, I'm Rahul
+#  Hey, I'm Rahul 👋
 
 ### Software Engineer | Backend Development | Data Engineering | Cloud & DevOps
 
@@ -13,9 +13,7 @@
 ## About
 
 
-Hi, I'm Rahul Yadav 👋
-
-Backend Engineer with 2.2+ years of experience building scalable backend applications, cloud-native services, and production-grade data platforms. I enjoy designing systems that are reliable, resilient, and efficient—from high-throughput data pipelines processing millions of records to distributed microservices handling production workloads.
+Hi, I'm Backend Engineer with 2.2+ years of experience building scalable backend applications, cloud-native services, and production-grade data platforms. I enjoy designing systems that are reliable, resilient, and efficient—from high-throughput data pipelines processing millions of records to distributed microservices handling production workloads.
 
 Currently working with enterprise clients Ford and Nissan, developing and supporting production ETL pipelines, distributed backend systems, and cloud-based data platforms.
 
@@ -39,6 +37,7 @@ Highlights
 Interests
 
 I'm passionate about building production-ready software, solving challenging backend problems, and continuously learning about distributed systems, cloud-native architecture, scalability, and performance engineering.
+
 ----
 
 ## Technical Skills

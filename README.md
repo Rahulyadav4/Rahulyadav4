@@ -17,14 +17,14 @@ Hi, I'm Backend Engineer with 2.2+ years of experience building scalable backend
 
 Currently working with enterprise clients Ford and Nissan, developing and supporting production ETL pipelines, distributed backend systems, and cloud-based data platforms 
 
-What I Work With
+## What I Work With
 
 - Backend: Java, Spring Boot, REST APIs, Microservices
 - Cloud & Data: AWS (Glue, Lambda, S3, Redshift), PySpark, SQL
 - Architecture: System Design (LLD & HLD), Distributed Systems, Event-Driven Architecture
 - DevOps: Docker, Kubernetes, Git, CI/CD
 
-Highlights
+## Highlights
 
 - Built and maintained production data pipelines processing 5M+ records/day.
 - Improved pipeline latency by 60% through workflow and performance optimization.
@@ -34,7 +34,7 @@ Highlights
 - LeetCode Rating: 1630
 - AWS Certified Cloud Practitioner (2025)
 
-### Interests
+## Interests
 
 I'm passionate about building production-ready software, solving challenging backend problems, and continuously learning about distributed systems, cloud-native architecture, scalability, and performance engineering.
 

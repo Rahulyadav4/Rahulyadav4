@@ -30,7 +30,7 @@ Currently working with enterprise clients Ford and Nissan, developing and suppor
 - Improved pipeline latency by 60% through workflow and performance optimization.
 - Reduced production incident resolution time by 40% using root cause analysis and reliability engineering practices.
 - Focused on scalable backend architecture, fault tolerance, observability, and production reliability.
-- Solved 250+ DSA problems across LeetCode, CodeChef, and HackerEarth.
+- Solved 280+ DSA problems across LeetCode, CodeChef, and HackerEarth.
 - LeetCode Rating: 1630
 - AWS Certified Cloud Practitioner (2025)
 
@@ -152,8 +152,8 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | AWS Certified Cloud Practitioner | 2025 |
 | | HackerRank Advanced SQL Certification | 2025 |
 | | HackerRank Software Engineer Certification | 2025 |
-| | 250+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
-| | Leetcode Rating 1560+ | Ongoing |
+| | 280+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
+| | Leetcode Rating 1630+ | Ongoing |
 ---
 
 

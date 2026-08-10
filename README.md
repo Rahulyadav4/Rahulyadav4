@@ -109,7 +109,7 @@ A fully serverless, event-driven ETL pipeline built on AWS that ingests raw CSV 
 A production-style cloud-native backend system built with Spring Boot microservices, deployed on Kubernetes with full observability, autoscaling, and a Redis cache-aside pattern for high-performance reads.
 
 **Key Highlights:**
-- Built cloud-native microservices capable of handling **3,000–5,000 req/s** under sustained load
+- Built cloud-native microservices capable of handling **3,00–5,00 req/s** under sustained load
 - Implemented **Redis cache-aside pattern** reducing direct database load by **70–80%**
 - Deployed on **Kubernetes (local cluster)** with Docker, using pods, services, and ingress routing
 - Configured **Horizontal Pod Autoscaler (HPA)** for automatic load-based scaling

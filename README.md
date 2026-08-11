@@ -36,7 +36,7 @@ Currently working with enterprise clients Ford and Nissan, developing and suppor
 
 ## Interests
 
-I'm passionate about building production-ready software, solving challenging backend problems, and continuously learning about distributed systems, cloud-native architecture, scalability, and performance engineering.
+I'm highly passionate about building production-ready software, solving challenging backend problems, and continuously learning about distributed systems, cloud-native architecture, scalability, and performance engineering.
 
 ----
 

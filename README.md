@@ -32,7 +32,7 @@ Currently working with enterprise clients Ford and Nissan, developing and suppor
 - Reduced production incident resolution time by 40% using root cause analysis and reliability engineering practices.
 - Focused on scalable backend architecture, fault tolerance, observability, and production reliability.
 - Solved 280+ DSA problems across LeetCode, CodeChef, and HackerEarth.
-- LeetCode Rating: 1630
+- LeetCode Rating: 1610
 - AWS Certified Cloud Practitioner (2025)
 
 ## Interests

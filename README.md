@@ -146,7 +146,7 @@ A fully agentic Retrieval-Augmented Generation (RAG) system that ingests multipl
 **System Architecture:**
 PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Vision) + Text Chunking ↓ Embeddings (sentence-transformers) → FAISS Vector Store ↓ Query → Semantic Retrieval → Gemini LLM → Consensus Answer
 
-## Certifications, Achievements & Contributions
+## Certifications, Achievements Contributions
 
 | Badge | Certification | Year |
 |---|---|---|
@@ -154,9 +154,10 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | HackerRank Advanced SQL Certification | 2025 |
 | | HackerRank Software Engineer Certification | 2025 |
 | | 280+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
-| | Leetcode Rating 1630+ | Ongoing |
+| | Leetcode Rating 1610+ | Ongoing |
 ---
 
+## Contributions
 
 ### Apache ShardingSphere
 > `Java` `ANTLR` `Grammar Parsing` `JUnit` `Open Source Debugging'

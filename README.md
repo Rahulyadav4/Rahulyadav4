@@ -157,8 +157,6 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | Leetcode Rating 1610+ | Ongoing |
 | | Secured 6392 rank out of approx 27000 in leetcode weekly contest 500 |  |
 | | Secured 374 rank out of approx 40000 in leetcode weekly biweekly contest 187 |  |
-| | Secured 46 rank out of approx 45000 in leetcode weekly contest 512 |  |
-
 ---
 
 ## Contributions

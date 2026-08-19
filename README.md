@@ -14,7 +14,7 @@
 ## About
 
 
-Hi, I'm a curious Backend Engineer with **2.2+** years of experience building scalable backend applications, cloud-native services, and production-grade data platforms. I enjoy designing systems that are reliable, resilient, and efficient—from high-throughput data pipelines processing millions of records to distributed microservices handling production workloads.
+Hi, I'm a curious Backend Engineer with **2.3+** years of experience building scalable backend applications, cloud-native services, and production-grade data platforms. I enjoy designing systems that are reliable, resilient, and efficient—from high-throughput data pipelines processing millions of records to distributed microservices handling production workloads.
 
 Currently working with enterprise clients Ford and Nissan, developing and supporting production ETL pipelines, distributed backend systems, and cloud-based data platforms 
 

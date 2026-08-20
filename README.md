@@ -153,7 +153,7 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 | | AWS Certified Cloud Practitioner | 2025 |
 | | HackerRank Advanced SQL Certification | 2025 |
 | | HackerRank Software Engineer Certification | 2025 |
-| | 280+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
+| | 290+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
 | | Leetcode Rating 1610+ | Ongoing |
 | | Secured 6392 rank out of approx 27000 in leetcode weekly contest 500 |  |
 | | Secured 374 rank out of approx 40000 in leetcode weekly biweekly contest 187 |  |

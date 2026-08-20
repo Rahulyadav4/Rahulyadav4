@@ -27,7 +27,7 @@ Currently working with enterprise clients Ford and Nissan, developing and suppor
 
 ## Highlights
 
-- Built and maintained production data pipelines processing 5M+ records/day.
+- Built and maintained production data pipelines processing **5M+** records/day.
 - Improved pipeline latency by 60% through workflow and performance optimization.
 - Reduced production incident resolution time by 40% using root cause analysis and reliability engineering practices.
 - Focused on scalable backend architecture, fault tolerance, observability, and production reliability.

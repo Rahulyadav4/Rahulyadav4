@@ -119,6 +119,8 @@ A production-style cloud-native backend system built with Spring Boot microservi
 - Metrics instrumented via **Micrometer + Spring Boot Actuator**
 - Automated build and deployment pipeline via **GitHub Actions CI/CD**
 - Layered architecture: `Controller → Service → Repository` with JWT-based auth
+- Implemented comprehensive JUnit 5 + Mockito testing across core backend, security, Kafka, configuration and infrastructure components, achieving 98% instruction and 86% branch coverage with JaCoCo.
+Validated critical authentication, JWT, rate-limiting, CRUD, messaging and configuration paths using isolated, deterministic unit tests and mocked external dependencies.
 
 **System Architecture:**
 

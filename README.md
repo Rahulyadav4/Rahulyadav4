@@ -110,7 +110,7 @@ A fully serverless, event-driven ETL pipeline built on AWS that ingests raw CSV 
 A production-style cloud-native backend system built with Spring Boot microservices, deployed on Kubernetes with full observability, autoscaling, and a Redis cache-aside pattern for high-performance reads.
 
 **Key Highlights:**
-- Built cloud-native microservices capable of handling **300–500 req/s** under sustained load
+- Built cloud-native microservices capable of handling **3000–5000 req/min** under sustained load
 - Implemented **Redis cache-aside pattern** reducing direct database load by **70–80%**
 - Deployed on **Kubernetes (local cluster)** with Docker, using pods, services, and ingress routing
 - Configured **Horizontal Pod Autoscaler (HPA)** for automatic load-based scaling
@@ -119,7 +119,7 @@ A production-style cloud-native backend system built with Spring Boot microservi
 - Metrics instrumented via **Micrometer + Spring Boot Actuator**
 - Automated build and deployment pipeline via **GitHub Actions CI/CD**
 - Layered architecture: `Controller → Service → Repository` with JWT-based auth
-- Implemented comprehensive JUnit 5 + Mockito testing across core backend, security, Kafka, configuration, and infrastructure components, achieving 98% instruction coverage and 86% branch coverage with JaCoCo, while validating critical authentication, JWT, rate-limiting, CRUD, messaging, and configuration paths through isolated, deterministic unit tests with mocked external dependencies; additionally load-tested the Spring Boot microservice on Kubernetes/Minikube using k6 at 100 concurrent VUs for ~3 minutes, achieving ~93.3 RPS, 7.51 ms median latency, 172 ms P95, and 0 interrupted iterations, and improved high-concurrency stability through liveness-probe tuning and NodePort-based service routing.
+- Implemented comprehensive JUnit 5 + Mockito testing across core backend, security, Kafka, configuration, and infrastructure components, achieving **98%** instruction coverage and **86%** branch coverage with JaCoCo, while validating critical authentication, JWT, rate-limiting, CRUD, messaging, and configuration paths through isolated, deterministic unit tests with mocked external dependencies; additionally load-tested the Spring Boot microservice on Kubernetes/Minikube using k6 at **100** concurrent VUs for **~3 minutes**, achieving **~94. RPS**, **7.51 ms** median latency, **172 ms P95**, and **0** interrupted iterations, and improved high-concurrency stability through liveness-probe tuning and NodePort-based service routing.
 
 **System Architecture:**
 

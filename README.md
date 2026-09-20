@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey, I'm Rahul 👋
+#  Hey, I'm Rahul
 
 ### Software Engineer | Backend Development | Cloud & DevOps
 

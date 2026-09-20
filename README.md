@@ -27,10 +27,11 @@ Currently working with enterprise clients Ford and Nissan, developing and contri
 
 ## Highlights
 
+- Designed end to end microservice ensuring scalability and response following SOLID principles. 
+- Focused on scalable backend architecture, fault tolerance, observability, and production reliability.
 - Built and maintained production data pipelines processing **5M+** records/day.
 - Improved pipeline latency by 60% through workflow and performance optimization.
 - Reduced production incident resolution time by 40% using root cause analysis and reliability engineering practices.
-- Focused on scalable backend architecture, fault tolerance, observability, and production reliability.
 - Solved 280+ DSA problems across LeetCode, CodeChef, and HackerEarth.
 - LeetCode Rating: 1610
 - AWS Certified Cloud Practitioner (2025)

@@ -11,7 +11,7 @@
 </div>
 
 
-## About
+## About me
 
 
 Hi, I'm a curious Backend Engineer building scalable backend applications, cloud-native services, and production-grade data platforms. I enjoy designing systems that are reliable, resilient, and efficient—from high-throughput data pipelines processing millions of records to distributed microservices handling production workloads.

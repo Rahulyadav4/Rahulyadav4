@@ -23,7 +23,7 @@ Currently working with enterprise clients Ford and Nissan, developing and contri
 - Backend: Java, Spring Boot, REST APIs, Microservices
 - Cloud & Data: AWS (Glue, Lambda, S3, Redshift), PySpark, SQL
 - Architecture: System Design (LLD & HLD), Distributed Systems, Event-Driven Architecture
-- DevOps: Docker, Kubernetes, Git, CI/CD Github Actions.
+- DevOps: Docker, Kubernetes, Git, CI/CD, Github Actions.
 
 ## Highlights
 

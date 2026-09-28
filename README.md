@@ -20,10 +20,10 @@ Currently working with enterprise clients, developing and contributing to produc
 
 ## What I Work With
 
-- Backend: Java, Spring Boot, REST APIs, Microservices
-- Cloud & Data: AWS (Glue, Lambda, S3, Redshift), PySpark, SQL
-- Architecture: System Design (LLD & HLD), Distributed Systems, Event-Driven Architecture
-- DevOps: Docker, Kubernetes, Git, CI/CD, Github Actions.
+- **Backend:** Java, Spring Boot, REST APIs, Microservices
+- **Cloud & Data:** AWS (Glue, Lambda, S3, Redshift), PySpark, SQL
+- **Architecture:** System Design (LLD & HLD), Distributed Systems, Event-Driven Architecture
+- **DevOps:** Docker, Kubernetes, Git, CI/CD, Github Actions.
 
 ## Highlights
 

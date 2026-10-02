@@ -125,7 +125,7 @@ A production-style cloud-native backend system built with Spring Boot microservi
 **System Architecture:**
 
 ---
-User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cache Layer) └── MongoDB (Persistence Layer) └── Micrometer → Prometheus → Grafana
+User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cache Layer) └── MongoDB (Persistence Layer) └── Micrometer → Prometheus → Grafana.
 
 
 ### 3. Policy Consensus Engine (RAG Agentic System)

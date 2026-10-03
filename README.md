@@ -224,7 +224,7 @@ PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Visi
 
 ## Contributions
 
-### Apache ShardingSphere (OSS)
+### Apache ShardingSphere(OSS)
 > `Java` `ANTLR` `Grammar Parsing` `JUnit` `Open Source Debugging`
 
 Investigated a reported parsing issue with the `UCASE(name)` function, tracing it from the grammar definition (`BaseRule4.g4`) through the visitor layer (`VisitorFunctionCall`).
@@ -233,10 +233,10 @@ Investigated a reported parsing issue with the `UCASE(name)` function, tracing i
 
 **Result:** `UCASE(name)` parses correctly at both grammar and visitor level. The parse tree is as expected and no defect was found.
 
-### Ongoing PRs
-> https://github.com/bucket4j/bucket4j/issues/530 — awaiting maintainer response
+### ongoing PR
+> https://github.com/bucket4j/bucket4j/issues/530.   awaiting maintainer response
 
-> https://github.com/resilience4j/resilience4j/issues/1578 — in progress
+> https://github.com/resilience4j/resilience4j/issues/1578.      working on it.
 
 <h3>📊 GitHub Stats</h3>
 

@@ -24,9 +24,9 @@
 
 ## About me
 
-Backend engineer building scalable services, cloud-native systems, and production-grade data platforms. I design for reliability and efficiency, from data pipelines processing millions of records to distributed microservices under production load.
+Backend engineer building scalable backend applications, cloud-native services, and production-grade data platforms. I design systems that are reliable, resilient, and efficient, from high-throughput pipelines processing millions of records to distributed microservices running production workloads.
 
-Currently working with enterprise clients on distributed backend systems and cloud-based data platforms.
+Currently working with enterprise clients on production distributed backend systems and cloud-based data platforms.
 
 ## What I Work With
 
@@ -37,18 +37,18 @@ Currently working with enterprise clients on distributed backend systems and clo
 
 ## Highlights
 
-- Designed an end-to-end microservice following SOLID principles, built for scale and low latency.
-- Built backend systems with fault tolerance, observability, and production reliability in mind.
-- Run production data pipelines processing **5M+ records/day**.
+- Designed an end-to-end microservice for scalability and low latency, following SOLID principles.
+- Build for scalability, fault tolerance, observability, and production reliability.
+- Built and maintained production data pipelines processing **5M+** records/day.
 - Cut pipeline latency by **60%** through workflow and performance optimization.
 - Cut production incident resolution time by **40%** through root cause analysis and reliability practices.
-- Solved **280+** DSA problems across LeetCode, CodeChef, and HackerEarth.
-- LeetCode rating: **1610**
+- Solved 290+ DSA problems across LeetCode, CodeChef, and HackerEarth.
+- LeetCode Rating: 1610
 - AWS Certified Cloud Practitioner (2025)
 
 ## Interests
 
-Building production-ready software, solving hard backend problems, and going deeper on distributed systems, cloud-native architecture, scalability, and performance engineering.
+Building production-ready software, solving hard backend problems, and going deeper into distributed systems, cloud-native architecture, scalability, and performance engineering.
 
 ----
 
@@ -136,11 +136,11 @@ A fully serverless, event-driven ETL pipeline on AWS. It ingests raw CSV data, v
 
 **Key Highlights:**
 - Designed an end-to-end serverless pipeline using **AWS Glue, S3, Lambda, EventBridge, and Redshift**
-- Implemented **incremental processing** so each batch handles only new or changed records
+- Implemented **incremental processing** so each batch run handles only new or changed records
 - Built **UPSERT-based ingestion** to handle duplicate and late-arriving records
-- Enforced **schema validation, null checks, format checks, and deduplication** in Glue
-- Split output into **curated (valid)** and **rejected (invalid)** datasets for auditability
-- Optimized Redshift loads with **COPY operations** and **partition-based processing**
+- Enforced **schema validation, null checks, format checks, and deduplication** at the Glue layer
+- Split records into **curated (valid)** and **rejected (invalid)** datasets for downstream auditability
+- Optimized Redshift ingestion with **COPY operations** and **partition-based processing** for high throughput
 - Verified load integrity with **row count checks** across source, staging, and target
 
 **Pipeline Flow:**
@@ -160,25 +160,25 @@ A fully serverless, event-driven ETL pipeline on AWS. It ingests raw CSV data, v
 
 ](https://linkedin.com/in/rahul-yadav-a42316219)
 
-A production-style, cloud-native backend built with Spring Boot microservices and deployed on Kubernetes, with full observability, autoscaling, and a Redis cache-aside layer for fast reads.
+A production-style, cloud-native backend built with Spring Boot microservices, deployed on Kubernetes with full observability, autoscaling, and a Redis cache-aside pattern for fast reads.
 
 **Key Highlights:**
-- Handles **3000–5000 req/min** under sustained load
-- **Redis cache-aside pattern** cut direct database load by **70–80%**
+- Built cloud-native microservices handling **3000–5000 req/min** under sustained load
+- Cut direct database load by **70–80%** with a **Redis cache-aside pattern**
 - Deployed on **Kubernetes (local cluster)** with Docker, using pods, services, and ingress routing
-- **Horizontal Pod Autoscaler (HPA)** for load-based scaling
-- **Readiness and liveness probes** for health management
-- **Prometheus + Grafana** for metrics and real-time dashboards, instrumented via **Micrometer + Spring Boot Actuator**
-- **GitHub Actions CI/CD** for automated build and deployment
-- Layered architecture: `Controller → Service → Repository`, with JWT-based auth
-- **Testing:** JUnit 5 + Mockito across core, security, Kafka, config, and infrastructure layers, with **98%** instruction and **86%** branch coverage (JaCoCo). Auth, JWT, rate limiting, CRUD, and messaging paths are covered with isolated, mocked tests.
-- **Load testing:** k6 on Kubernetes/Minikube at **100 concurrent VUs for ~3 min**: **~94 RPS**, **7.51 ms median**, **172 ms P95**, **0 interrupted iterations**
-- Improved high-concurrency stability through **liveness-probe tuning** and **NodePort-based service routing**
+- Configured **Horizontal Pod Autoscaler (HPA)** for load-based scaling
+- Added **readiness and liveness probes** for robust health management
+- Full observability: **Prometheus** for metrics scraping, **Grafana** for real-time dashboards
+- Instrumented metrics via **Micrometer + Spring Boot Actuator**
+- Automated build and deployment with **GitHub Actions CI/CD**
+- Layered architecture: `Controller → Service → Repository` with JWT-based auth
+- Wrote JUnit 5 + Mockito tests across core backend, security, Kafka, configuration, and infrastructure, reaching **98%** instruction and **86%** branch coverage (JaCoCo). Covered authentication, JWT, rate limiting, CRUD, messaging, and configuration paths with isolated, deterministic tests and mocked external dependencies.
+- Load-tested on Kubernetes/Minikube with k6 at **100** concurrent VUs for **~3 minutes**: **~94 RPS**, **7.51 ms** median latency, **172 ms P95**, **0** interrupted iterations. Improved high-concurrency stability through liveness-probe tuning and NodePort-based service routing.
 
 **System Architecture:**
 
 ---
-User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cache Layer) └── MongoDB (Persistence Layer) └── Micrometer → Prometheus → Grafana.
+User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cache Layer) └── MongoDB (Persistence Layer) └── Micrometer → Prometheus → Grafana
 
 ### 3. Policy Consensus Engine (RAG Agentic System)
 > `Python` `RAG` `LLM` `Gemini` `FAISS` `PySpark` `Gradio` `Agentic AI`
@@ -193,50 +193,50 @@ User → Ingress → Kubernetes Service → Spring Boot Pod ├── Redis (Cac
 
 ](https://linkedin.com/in/rahul-yadav-a42316219)
 
-An agentic Retrieval-Augmented Generation (RAG) system that ingests multiple policy PDFs, builds a semantic vector store, and uses Gemini to surface cross-policy agreements, conflicts, and actionable consensus recommendations.
+A fully agentic Retrieval-Augmented Generation (RAG) system. It ingests multiple policy PDFs, builds a semantic vector store, and uses Gemini to surface cross-policy agreements, conflicts, and actionable consensus recommendations.
 
 **Key Highlights:**
-- Built an **end-to-end RAG pipeline** with a FAISS vector store and `sentence-transformers` for semantic retrieval across policies
-- Integrated **Gemini 2.5 Flash** for summarization, Q&A, and consensus generation
-- **Multi-modal ingestion:** extracts text and embedded images from PDFs; Gemini analyzes visuals such as workflows, hierarchies, and tables
-- **Weighted consensus engine:** each policy gets an importance weight (1–10) that drives conflict resolution and recommendation priority
-- Generates structured summaries: Executive Summary, Priorities, Mandatory Actions, Risks, Agreements, Conflicts, and a one-line consensus
-- **Persistent storage** (FAISS index + JSON metadata) supports incremental policy additions across sessions
-- **Semantic chunking with top-K retrieval** for grounded, context-aware answers
-- Interactive **Gradio UI** with tabs for ingestion, Q&A, and policy management
+- Built an **end-to-end RAG pipeline** with a FAISS vector store and `sentence-transformers` for semantic retrieval across policy documents
+- Integrated **Google Gemini 2.5 Flash** for policy summarization, Q&A, and consensus generation
+- Implemented **multi-modal ingestion**: extracts text and embedded images from PDFs, with Gemini analyzing visuals (workflows, hierarchies, tables)
+- Designed a **weighted consensus engine**: each policy gets an importance weight (1–10) that drives conflict resolution and recommendation priority
+- Generated structured summaries: Executive Summary, Priorities, Mandatory Actions, Risks, Agreements, Conflicts, and a one-line consensus
+- Built **persistent vector storage** (FAISS index + JSON metadata) that supports incremental policy additions across sessions
+- Implemented **semantic chunking and top-K similarity retrieval** for grounded, context-aware answers
+- Developed an interactive **Gradio UI** with tabs for policy ingestion, Q&A, and policy management
 
 **System Architecture:**
 PDF Upload → Text + Image Extraction (PyMuPDF) ↓ Image Analysis (Gemini Vision) + Text Chunking ↓ Embeddings (sentence-transformers) → FAISS Vector Store ↓ Query → Semantic Retrieval → Gemini LLM → Consensus Answer
 
-## Certifications, Achievements, Contributions
+## Certifications, Achievements & Contributions
 
 | Badge | Certification | Year |
 |---|---|---|
 | | AWS Certified Cloud Practitioner | 2025 |
 | | HackerRank Advanced SQL Certification | 2025 |
 | | HackerRank Software Engineer Certification | 2025 |
-| | 280+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
+| | 290+ DSA Problems — LeetCode, CodeChef, HackerEarth | Ongoing |
 | | LeetCode Rating 1610+ | Ongoing |
-| | Rank 6392 / ~27,000 — LeetCode Weekly Contest 500 | |
-| | Rank 374 / ~40,000 — LeetCode Biweekly Contest 187 | |
+| | Rank 6392 of ~27,000 in LeetCode Weekly Contest 500 | |
+| | Rank 374 of ~40,000 in LeetCode Biweekly Contest 187 | |
 
 ---
 
 ## Contributions
 
-### Apache ShardingSphere(OSS)
+### Apache ShardingSphere (OSS)
 > `Java` `ANTLR` `Grammar Parsing` `JUnit` `Open Source Debugging`
 
-Investigated a reported parsing issue with the `UCASE(name)` function, tracing it from the grammar definition (`BaseRule4.g4`) through the visitor layer (`VisitorFunctionCall`).
+Investigated a reported parsing issue with the `UCASE(name)` function, tracing it from the grammar definition (`BaseRule4.g4`) to the Visitor layer (`VisitorFunctionCall`).
 
 📄 Full investigation log: [ShardingSphere Open Source Investigation Log](https://github.com/Rahulyadav4/opensource)
 
-**Result:** `UCASE(name)` parses correctly at both grammar and visitor level. The parse tree is as expected and no defect was found.
+**Summary:** `UCASE(name)` parses correctly at both grammar and visitor level. The parse tree is generated as expected, so no defect was found.
 
-### ongoing PR
-> https://github.com/bucket4j/bucket4j/issues/530.   awaiting maintainer response
+### Ongoing PRs
+> https://github.com/bucket4j/bucket4j/issues/530 — awaiting maintainer response
 
-> https://github.com/resilience4j/resilience4j/issues/1578.      working on it.
+> https://github.com/resilience4j/resilience4j/issues/1578 — in progress
 
 <h3>📊 GitHub Stats</h3>
 

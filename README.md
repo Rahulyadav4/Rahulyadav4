@@ -32,7 +32,7 @@ Currently working with enterprise clients, developing and contributing to produc
 - Built and maintained production data pipelines processing **5M+** records/day.
 - Improved pipeline latency by 60% through workflow and performance optimization.
 - Reduced production incident resolution time by 40% using root cause analysis and reliability engineering practices.
-- Solved 280+ DSA problems across LeetCode, CodeChef, and HackerEarth.
+- Solved **300+** DSA problems across LeetCode, CodeChef, and HackerEarth.
 - LeetCode Rating: 1610
 - AWS Certified Cloud Practitioner (2025)
 
